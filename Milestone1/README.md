@@ -31,4 +31,3 @@ Relationships are One-to-Many with the fact table.
 - Power BI Desktop
 - Power Query Editor
 - DAX
-- GitHub
