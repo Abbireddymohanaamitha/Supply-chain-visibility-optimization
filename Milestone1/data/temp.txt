@@ -1,3 +1,0 @@
-Dataset Source
-https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
-unzip this datset and took supply chain data set 
