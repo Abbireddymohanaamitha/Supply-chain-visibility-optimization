@@ -187,20 +187,7 @@ Visualizations
 
 ---
 
-# Repository Structure
 
-```
-Supply_Chain_Visibility_Optimization/
-│
-└── Milestone 2/
-    ├── Milestone2_PowerBI.pbix
-    ├── README.md
-    └── screenshots/
-        ├── Delivery_Performance.png
-        └── Inventory_Analytics.png
-```
-
----
 
 # Conclusion
 
